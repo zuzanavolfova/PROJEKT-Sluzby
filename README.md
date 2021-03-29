@@ -22,7 +22,7 @@ Cílem projektu je procvičit si použití různých technik:
   - tentokrát nemáš připravený žádný kód
   - udělej si klon repozitáře a v něm si sma vytvoř HTML a CSS soubor, připoj písma, stáhni obrázky
 - **Práce s grafickým návrhem**
-  - v tomto projektu máš jako podklady grafický návrh vyexportovaný z Adobe XD
+  - v tomto projektu máš jako podklady [grafický návrh vyexportovaný z Adobe XD](https://xd.adobe.com/view/6fa92a1c-946c-4745-9c2e-2820ef34d36d-3afa/grid/)
   - v návrhu si sama změříš potřebné rozměry, vyexportuješ si z něho obrázky, zjistíš barvy a použitá písma
   - návod, jak pracovat s návrhem, najdeš v [krátkém YouTube videu (20 min)](https://youtu.be/1ih_ZYdmNPU)
   - obrázky jdou z návrhu vyexportovat z mobilního, tabletového i počítačového rozložení, ale stále se jedná o ty stejné obrázky (hlavní obrázek + 6 ikon) - stačí je tedy vyexportovat jednou z jakékoliv verze
