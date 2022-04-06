@@ -52,6 +52,9 @@ button {
     background-color: #8B8B8B;
 }
 
+.sluzbyKancelare p {
+    margin: 15px 0 28px 0;
+}
 .menu {
     color: #8B8B8B;
     font-size: 13px;
