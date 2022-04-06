@@ -142,14 +142,15 @@ button {
     .kontejnerText p {
         margin: 17px 0 0 0;
     }
-    .kontejnerMenu, .kontejnerText {
-        flex-basis: 50%;
+    .kontejnerMenu  {
+        flex-basis: clac(50% + 30px);
     }
+    
  .kontejnerMenu.druhy {
      order: 1;
  } 
  .kontejnerText.druhy{
-     margin:0
+     margin:0;
  }
 
 }
