@@ -118,6 +118,7 @@ button {
         
     }
     body {
+        max-width: 1040px;
         text-align: left;
         margin: 0px auto;
         padding: 60px 80px;
@@ -133,24 +134,28 @@ button {
     .sluzby {
         display: flex;
         align-items: center;
+        justify-content: space-between;
     }
 
     .kontejnerText {
         order: 1;
-        margin-left: 60px;
+        
     }
     .kontejnerText p {
         margin: 17px 0 0 0;
     }
     .kontejnerMenu  {
-        flex-basis: clac(50% + 30px);
+      flex-basis: 550px;
     }
     
- .kontejnerMenu.druhy {
-     order: 1;
- } 
- .kontejnerText.druhy{
-     margin:0;
- }
+    .kontejnerMenu.druhy {
+        order: 1;
+    } 
+    .kontejnerText.druhy{
+        margin:0;
+    }
+    .menu {
+        text-align: center;
+    }
 
 }
