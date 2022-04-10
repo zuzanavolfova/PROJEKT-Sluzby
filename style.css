@@ -148,14 +148,15 @@ button {
         flex-basis: calc(50% + 30px);
         width: 550px;
     }
+    .kontejnerText {
+        flex-basis: calc(50% - 30px); 
+        flex-grow: 0;
+    }
     .kontejnerMenu.prvni {
         margin-right: 60px;
     }
     .kontejnerMenu.druhy {
         margin-left: 60px;
     }
-    .kontejnerText {
-        flex-basis: calc(50% - 30px); 
-        flex-grow: 0;
-    }
+  
 }
