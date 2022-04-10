@@ -150,7 +150,7 @@ button {
     }
     .kontejnerText {
         flex-basis: calc(50% - 30px); 
-        flex-grow: 0;
+        width: 430px ;
     }
     .kontejnerMenu.prvni {
         margin-right: 60px;
