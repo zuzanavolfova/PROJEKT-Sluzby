@@ -145,12 +145,10 @@ button {
         order: 1;
     }
     .kontejnerMenu  {
-        flex-basis: calc(50% + 30px);
-        width: 550px;
+        flex-basis: 550px;
     }
     .kontejnerText {
-        flex-basis: calc(50% - 30px); 
-        width: 430px ;
+        flex-basis: 430px;
     }
     .kontejnerMenu.prvni {
         margin-right: 60px;
